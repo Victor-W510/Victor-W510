@@ -1,7 +1,4 @@
-👋 Hej! Jag heter Victor, en passionerad Java-utvecklare med en stark bakgrund inom mjukvaruutveckling och självstudier. Jag brinner för teknik och älskar att lösa komplexa problem. Min styrka ligger i backend-utveckling med Java och jag fördjupar mig i att arbeta med Docker, Kubernetes och andra moderna teknologier.
+👋 Hej! Jag heter Victor och studerar Java på Nackademin. Jag är en passionerad utvecklare med ett stort intresse för teknik och problemlösning. Min främsta styrka ligger inom backend-utveckling med Java, men jag utforskar ständigt nya teknologier som Docker, Kubernetes och andra moderna verktyg.
 
-📚 
-
-💡 Förutom mina tekniska kunskaper är jag en lagspelare som värdesätter samarbete och god kommunikation. Jag tror på vikten av att dela kunskap och erfarenheter för att nå gemensam framgång.
 
 
